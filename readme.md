@@ -4,11 +4,11 @@ Panel en forma de movil donde aparece la animacion de inicio de Apple, con su lo
 Deslizas hacia arriba y abre un desktop con aplicaciones (NO FUNCIONAL)
 
 ## Tabla de Contenido
-- [Características](#-caracteristicas)
-- [Instalación](#-instalacion)
-- [Capturas](#-capturas)
-- [Tecnologías](#-tecnologias)
-- [Licencia](#-licencia)
+- [Características](##-características)
+- [Instalación](##-instalación)
+- [Capturas](##-capturas)
+- [Tecnologías](##-tecnologías)
+- [Licencia](##-licencia)
 
 ## Características
 - Animacion de inicio de IPHONE
